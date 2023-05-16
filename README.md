@@ -38,3 +38,5 @@ The test code is BLEGPS.ino
 Following is the setup and the satellite info I retrieved on an open ground
 ![346158488_195429856706999_6012077779530714286_n](https://github.com/AverageEnyineer98/ESP-32-GPS-tracking-device/assets/121141873/43f59e30-697f-42d1-b886-e6af99e15318)
 ![346106530_210601011727845_3340513990749274137_n](https://github.com/AverageEnyineer98/ESP-32-GPS-tracking-device/assets/121141873/b6e7ce7a-8f1a-43c8-a1a0-6bd347f3c096)
+--------------------------------------------------------------------------------------------------------------
+Phase 2 : Intercommunication for ESP-32
