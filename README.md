@@ -40,3 +40,4 @@ Following is the setup and the satellite info I retrieved on an open ground
 ![346106530_210601011727845_3340513990749274137_n](https://github.com/AverageEnyineer98/ESP-32-GPS-tracking-device/assets/121141873/b6e7ce7a-8f1a-43c8-a1a0-6bd347f3c096)
 --------------------------------------------------------------------------------------------------------------
 Phase 2 : Intercommunication for ESP-32
+The intercom for the two ESP-32 is to allow the slave ESP-32 (transmitter) to send its GPS signal to the Master ESP-32 (Receiver)
